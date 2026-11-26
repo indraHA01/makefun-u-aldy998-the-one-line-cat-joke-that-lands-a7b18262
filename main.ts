@@ -19,6 +19,9 @@
 
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// The joke itself, kept verbatim: the cat is the critic and the litter
+// box is the review form — burying dinner is a one-star rating with no
+// words wasted, and the last two words do all the work.
 const JOKE =
   "My cat reviewed my cooking by trying to bury it like litter.";
 
